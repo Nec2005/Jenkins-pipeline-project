@@ -1,4 +1,4 @@
-# Import Flask modules dont forget to ec2 install flask
+# Import Flask modules dont forget to ec2 with sudo install flask
 from flask import Flask, render_template, request
 
 # Create an object named app
