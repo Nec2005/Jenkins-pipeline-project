@@ -5,7 +5,7 @@ pipeline {
             steps {
                 echo 'My python pipeline'
                 sh 'python --version'
-                sh 'python pipeline.py'
+                sh 'python app.py'
             }
         }
     }
