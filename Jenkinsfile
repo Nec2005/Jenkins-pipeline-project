@@ -5,7 +5,7 @@ pipeline {
             steps {
                 echo 'My python pipeline'
                 sh 'python --version'
-                sh 'python3 app.py'
+                sh 'sudo python3 app.py'
             }
         }
     }
