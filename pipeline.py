@@ -8,3 +8,5 @@ def passwd(name):
         randNum = rnd.randint(1000,9999)
         passw += str(randNum)
     print(passw)
+
+passwd('necunl')
