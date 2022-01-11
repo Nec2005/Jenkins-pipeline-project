@@ -9,4 +9,4 @@ def passwd(name):
         passw += str(randNum)
     print(passw)
 
-passwd('nectomunl')
+passwd('nectunl')
